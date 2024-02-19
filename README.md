@@ -14,4 +14,4 @@ Analyzing Company's Sales for the Festive Season and giving insights
 - Improved Customer experience by identifying potential customers across different states, occupation, gender and age groups 
 - Improved Sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands
 
->Mani Shankar Jha
+
